@@ -2,10 +2,10 @@ The parameter weekday is true if it is a weekday, and the parameter vacation is 
 Return true if we sleep in.
 
 
-sleepIn(false, false) → true
-sleepIn(true, false) → false
-sleepIn(false, true) → true
+* sleepIn(false, false) → true
+* (sleepIn(true, false) → false
+* sleepIn(false, true) → true
 
-public boolean sleepIn(boolean weekday, boolean vacation) {
+     public boolean sleepIn(boolean weekday, boolean vacation) {
 
-}
+     }
